@@ -11,7 +11,7 @@
   - [Vegetable image classification with CNN, NN, Transfer Learning, and VGG16](https://github.com/matthewoncloud/vegetable-classification)
   - [Datapoint classification with Logistic Regression, SVM, and Random Forests](https://github.com/matthewoncloud/random-datapoint-classification)
 
-<h2>📱 iOS Applications:</h2>
+<h2>📱 iOS Applications on App Store:</h2>
 
   - [Boighor](https://apps.apple.com/app/ewap/id1588232196)
   - [BanglaFlix](https://apps.apple.com/us/app/banglaflix/id1124030141)

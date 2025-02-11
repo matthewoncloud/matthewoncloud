@@ -7,8 +7,9 @@
 
 <h2>🤖 Machine Learning projects:</h2>
 
+  - [Rain streak removal from image with CycleGAN model training with JRDR Dataset](https://github.com/matthewoncloud/derain-cyclegan-jrdr)
+  - [Vegetable image classification with CNN, NN, Transfer Learning, and VGG16](https://github.com/matthewoncloud/vegetable-classification)
   - [Datapoint classification with Logistic Regression, SVM, and Random Forests](https://github.com/matthewoncloud/random-datapoint-classification)
-  - [Vegetable classification with CNN, NN, Transfer Learning, and VGG16](https://github.com/matthewoncloud/vegetable-classification)
 
 <h2>📱 iOS Applications:</h2>
 
